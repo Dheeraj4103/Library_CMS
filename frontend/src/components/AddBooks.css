@@ -1,0 +1,27 @@
+.addbooks{
+    margin: 3% 10% 10%;
+}
+label{
+    font-size: 15px;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+input{
+    border-radius: 10px;
+    border: 1px solid black;
+}
+button{
+    width: 100%;
+    padding: 12px 20px;
+    background-color: rgb(156, 210, 233);
+    font-size: large;
+    margin-top: 1%;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
